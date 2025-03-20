@@ -1,0 +1,12 @@
+{
+  "name": "lab-project-01",
+  "version": "1.0.0",
+  "description": "Simulador de Corridas do Mario Kart com Node.js",
+  "license": "ISC",
+  "author": "alexsrs",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
